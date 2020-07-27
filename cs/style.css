@@ -2,7 +2,7 @@ body
 {
   font: 28px/1.5 Arial, Helvetica, sans-serif;
   padding:0;
-  color: green;
+  color: blue;
   margin:0;
   background-image: url('https://i.pinimg.com/originals/92/0c/d2/920cd2ba47d7a57d7eadf43cac6d3f53.jpg');
 }
@@ -18,7 +18,7 @@ body
 header
 {
   background:#994d00;
-  color:#00ff44;
+  color:#994d00;
   padding-top:30px;
   min-height:70px;
   border-bottom:#663300 3px solid;
@@ -32,4 +32,5 @@ header #logo
 header #logo h1
 {
   margin:0;
+  color: lightgreen;
 }
