@@ -15,6 +15,7 @@ body
 .reasons {
   font-weight: bold;
   color: pink;
+  -webkit-text-stroke: 1px black;
 }
 header
 {
@@ -34,4 +35,8 @@ header #logo h1
 {
   margin:0;
   color: lightgreen;
+}
+ul
+{
+  -webkit-text-stroke: 1px black;
 }
